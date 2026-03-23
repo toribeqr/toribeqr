@@ -22,5 +22,5 @@
 - Learn to code smarter, not harder
 - Get my certs! AWS, COMPTIA+, CCNA, etc.
 - Masters in Computer Science @ University of Oxford
-- Work at Riot Games :)) Jk
+- Become the top software engineer @ Riot Games :)) Jk
 
