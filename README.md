@@ -14,3 +14,8 @@
 - TBD
 - TBD
 - TBD
+
+🐱‍💻 Favorite Languages + Programs
+- Kali Linux
+- Python
+- Java
