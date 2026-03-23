@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=500&color=F7A2AD&width=435&lines=Hello+%26+Welcome!+%E2%9C%A6%E2%8B%86+%CB%9A%EF%BD%A1%E2%8B%86%E0%AD%A8%E0%AD%A7%CB%9A)](https://git.io/typing-svg) 
 ## 🪽 About Me
-- Full-Stack & Aspiring Software Engineer + Ethical Hacker 
+- I am a **Full-Stack Software Engineer and Ethical Hacker**, leveraging AI with a focus on Graphic Design
 - My name is Tori 私のトリです / English + 日本語OK
 - 24 y.o applied AI enthusiast and gamer
 - I’m passionate about using AI to tackle real-world problems, especially in healthcare.
