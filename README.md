@@ -13,4 +13,6 @@
 💡 Future Projects // Interested? join me [here](test@gmail.com) :)
 - TBD
 - TBD
-- TBD
+
+[![Tori's GitHub stats](https://github-readme-stats.vercel.app/api?username=towihacker)](https://github.com/towihacker/github-eeadme-stats)
+
