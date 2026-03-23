@@ -7,6 +7,8 @@
 - I’m passionate about using AI to tackle real-world problems, especially in healthcare.
 - Wanna chat? Email me [here](test@gmail.com) :)
 
+![Tori's GitHub stats](https://github-readme-stats.vercel.app/api?username=towihacker&show_icons=true&theme=radical)
+
 ## ⏳ Leet Code Progression
 - [Two Sum](https://leetcode.com/problems/two-sum/description) // In Progress
 - [3sum](https://leetcode.com/problems/3sum/) // In Progress
