@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=500&color=F7A2AD&width=435&lines=Hello+%26+Welcome!+%E2%9C%A6%E2%8B%86+%CB%9A%EF%BD%A1%E2%8B%86%E0%AD%A8%E0%AD%A7%CB%9A)](https://git.io/typing-svg) 
+
+![test](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
+
 ## 🪽 About Me
 - My name is Tori 私のトリです / English + 日本語OK
 - Bachelors in **Information Technology, System Administration** | Vocational Degree in **Graphic Design and Communication**
