@@ -9,4 +9,5 @@
 - [Two Sum](https://leetcode.com/problems/two-sum/description) // In Progress
 - [3sum](https://leetcode.com/problems/3sum/) // In Progress
 - [two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) // In Progress
-🫧
+
+💡 Future Projects // Interested? join me [here](test@gmail.com) :)
