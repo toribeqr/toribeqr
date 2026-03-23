@@ -24,4 +24,4 @@
 - Masters in Computer Science @ University of Oxford
 - Become the top software engineer @ Riot Games :)) JKKKKKK
 
-**MY DREAM** 24 hours of coding, twitch streaming (secret), and side-hustle - film acting ;)
+I want my 24-hours to be filled w/ coding, twitch streaming, film acting, and sleeping ;)
