@@ -4,8 +4,9 @@
 
 ## 🪽 About Me
 - My name is Tori 私のトリです / English + 日本語OK
-- Bachelors in **Information Technology, System Administration** | Vocational Degree in **Graphic Design and Communication**
 - 24 y.o applied AI enthusiast and gamer
+- Bachelors in **Information Technology, System Administration**
+- Vocational Degree in **Graphic Design and Communication**
 - I’m passionate about using AI to tackle real-world problems, especially in healthcare.
 - Wanna chat? Email me [here](test@gmail.com) :)
 
