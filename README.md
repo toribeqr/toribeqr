@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=500&color=F7A2AD&width=435&lines=Hello+%26+Welcome!+%E2%9C%A6%E2%8B%86+%CB%9A%EF%BD%A1%E2%8B%86%E0%AD%A8%E0%AD%A7%CB%9A)](https://git.io/typing-svg) 
 
-![test](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
+![test]([https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif](https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU2NjQxMjQsIm5iZiI6MTc3NTY2MzgyNCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA4VDE1NTcwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2ZmFmYmY3M2EyMjI3NDIxOWY3Zjg3Y2RlNzUxMzllOTY5MGEyM2MyMTExZTJiN2RhZGE1MGRkYzk0Zjc3ZTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fOOfza3MHH1pikuWu3y3yoKSkfB0pDT0mYPB61NbhOs))
 
 ## 🪽 About Me
 - My name is **Tori 私のトリです** / English + 日本語OK
@@ -9,14 +9,7 @@
 - Vocational Degree in **Graphic Design and Communication**
 - Wanna chat? Email me [here](test@gmail.com) :)
 
-![Tori's GitHub stats](https://github-readme-stats.vercel.app/api?username=toribeqr&show_icons=true&theme=dracula)
 
-## ⏳ Leet Code Progression (COMPLETED)
-- [Two Sum](https://leetcode.com/problems/two-sum/description)
-- [Add Two Integers](https://leetcode.com/problems/add-two-integers/)
-- [Return Lengths of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)
-- [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)
-- [Minimum Operations To Make Array Sum Divisible By K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/submissions/1958985309/)
 
 ## 💡 Future Projects // Interested? join me [here](test@gmail.com) :)
 - "Habit Defuser" (CUE - CRAVE - RESPONSE - REWARD SYSTEM) Inspired by *Atomic Habits* by James Clear
